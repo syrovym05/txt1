@@ -1,0 +1,11 @@
+C:\Users\marsy\Source\Repos\ukol1txt\ukol1txt\bin\Release\ukol1txt.exe.config
+C:\Users\marsy\Source\Repos\ukol1txt\ukol1txt\bin\Release\ukol1txt.exe
+C:\Users\marsy\Source\Repos\ukol1txt\ukol1txt\bin\Release\ukol1txt.pdb
+C:\Users\marsy\Source\Repos\ukol1txt\ukol1txt\obj\Release\ukol1txt.csproj.AssemblyReference.cache
+C:\Users\marsy\Source\Repos\ukol1txt\ukol1txt\obj\Release\ukol1txt.csproj.SuggestedBindingRedirects.cache
+C:\Users\marsy\Source\Repos\ukol1txt\ukol1txt\obj\Release\ukol1txt.Form1.resources
+C:\Users\marsy\Source\Repos\ukol1txt\ukol1txt\obj\Release\ukol1txt.Properties.Resources.resources
+C:\Users\marsy\Source\Repos\ukol1txt\ukol1txt\obj\Release\ukol1txt.csproj.GenerateResource.cache
+C:\Users\marsy\Source\Repos\ukol1txt\ukol1txt\obj\Release\ukol1txt.csproj.CoreCompileInputs.cache
+C:\Users\marsy\Source\Repos\ukol1txt\ukol1txt\obj\Release\ukol1txt.exe
+C:\Users\marsy\Source\Repos\ukol1txt\ukol1txt\obj\Release\ukol1txt.pdb
