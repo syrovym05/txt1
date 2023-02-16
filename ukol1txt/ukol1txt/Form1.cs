@@ -47,8 +47,8 @@ namespace ukol1txt
                             jecislo = false;
                             if (char.IsDigit(c))
                             {
-                                if (c % 2 == 0) sude += Convert.ToInt32(c)-48;
-                                else liche += Convert.ToInt32(c)-48;
+                                if (c % 2 == 0) sude ++;
+                                else liche ++;
                                 line += c;
                                 jecislo = true;
                             }                                                   
